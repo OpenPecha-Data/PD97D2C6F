@@ -1,0 +1,28 @@
+id: PD97D2C6F
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA3JT13368
+  instance_id: http://purl.bdrc.io/resource/IE3JT13368
+  collection_id: http://purl.bdrc.io/resource/PR0ET006
+  language_id: None
+  title:
+    bo:
+    - སེ་ར་མཁའ་འགྲོའི་རྣམ་ཐར་ཁ་ཤས།
+  alt_title:
+    bo:
+    - སེ་ར་མཁའ་འགྲོ་ཀུན་བཟང་བདེ་སྐྱོང་དབང་མོའི་རྣམ་ཐར་ཁ་ཤས།
+  author: http://purl.bdrc.io/resource/P742
+  publisher: PalriParkhang
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    ea69dea1d63b4eaeab6968f1440abae0:
+      title: སྔོན་འགྲོའི་གཏམ༌།
+      volume_number: 1
+      base_file: UT3JT13368_001_0001.txt
+      reference: http://purl.bdrc.io/resource/VL6C2DEBEA2052AF5E
+      image_group: null
+      quality: null
+  reproductionOf: []
+created_at: '2021-12-31T08:20:04.659996'
+last_modified_at: '2021-12-31T08:20:04.660005'
